@@ -1,0 +1,21 @@
+Symbol,Security,GICS Sector,Price
+AAPL,Apple Inc.,Information Technology,230.50
+MSFT,Microsoft,Information Technology,425.10
+NVDA,Nvidia,Information Technology,135.40
+GOOGL,Alphabet Inc. (Class A),Communication Services,178.25
+AMZN,Amazon,Consumer Discretionary,195.80
+META,Meta Platforms,Communication Services,580.30
+TSLA,"Tesla, Inc.",Consumer Discretionary,245.60
+JPM,JPMorgan Chase,Financials,215.70
+V,Visa Inc.,Financials,285.90
+JNJ,Johnson & Johnson,Health Care,155.20
+WMT,Walmart,Consumer Staples,82.40
+PG,Procter & Gamble,Consumer Staples,168.35
+XOM,ExxonMobil,Energy,118.90
+KO,Coca-Cola Company (The),Consumer Staples,68.15
+DIS,Walt Disney Company (The),Communication Services,96.45
+NFLX,Netflix,Communication Services,735.00
+ORCL,Oracle Corporation,Information Technology,172.60
+INTC,Intel,Information Technology,23.85
+PFE,Pfizer,Health Care,27.90
+BA,Boeing,Industrials,158.30

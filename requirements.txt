@@ -1,0 +1,3 @@
+# Core projects use only the Python standard library.
+# Optional: enables live prices in Task 2 (python task2_portfolio/portfolio.py --live)
+yfinance>=0.2
